@@ -19,4 +19,8 @@ Backend
 a. Search Term will be the name of the university.
 b. Filter: country code.
 
+Technologues Used
+1. Django Rest Framework
+2. PostgreSQL Database
+
 Project concept definiton credits = https://www.azent.com/
