@@ -16,7 +16,7 @@ JSON is:
 Backend
 1. A CRUD API for the universities
 2. A paginated search API.
-a. Search Term” will be the name of the university.
-b. Filter: either country code.
+a. Search Term will be the name of the university.
+b. Filter: country code.
 
 Project concept definiton credits = https://www.azent.com/
